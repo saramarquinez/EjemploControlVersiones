@@ -3,3 +3,8 @@ title: "Area"
 output: html_document
 ---
 
+```{r}
+#Area cículo
+r<-0.5
+Area<-pi*r^2
+```
