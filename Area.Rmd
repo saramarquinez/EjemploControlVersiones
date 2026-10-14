@@ -8,3 +8,9 @@ output: html_document
 r<-0.5
 Area<-pi*r^2
 ```
+
+```{r}
+#Area cuadrado
+l<-0.5
+Area<r^2
+```
